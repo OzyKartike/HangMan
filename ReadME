@@ -1,0 +1,11 @@
+READ ME.MD
+1. This program is very user friendly, it gives you instructions on how to play the game.
+2. Remember that at any given time when the code asks you to enter something, you always have the option to press exit (except when guessing because it asks you to exit before hand)
+3. You should be able to play this game multiple times but I’ve made it work perfectly for only 1 however for the second time 
+4. There are multiple times where the program buffers, this is calculated so that the user has time to read what is being said.
+5. You can only guess one character at a time not the whole word so please enter one letter at a time.
+6. Do not type anything until you are told to do so or do not press enter unless you're actually saying something to run the program.
+7.Trying to answer the word in 6 guesses failure to do so will make you a loser.
+8. Exit cannot be chosen as a word or a team name because the code will just think that you decided to exit the game.
+9.Do not enter the same letter twice as it will neither be a wrong or correct answer
+10. If you get 6 wrong, sorry to say you’ll have to close the code and restart it because you already have a hint and I think 6 guesses is already way too much to give to the person.
