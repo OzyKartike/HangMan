@@ -3,12 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
-/* Author name: Kartike Chaudhari
- * Teacher: Mr. David Phillip
- * 3/13/2020
- * Class: ICS3U
- * This is a HangMan game played between two players/opposing sides. The word is picked by side 1 and then side 2 has to guess the word. You have 6 guesses to guess the word otherwise you lose.
- */
 namespace Hang_man1
 {
     class Program
